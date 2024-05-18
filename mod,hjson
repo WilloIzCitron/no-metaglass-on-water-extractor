@@ -1,0 +1,7 @@
+name: "extractor",
+  displayName: "Old Water Extractor",
+  author: WilloIzCitron,
+  description: "
+  ah yes, no metaglass. old vibes
+  ",
+  minGameVersion: "146",
